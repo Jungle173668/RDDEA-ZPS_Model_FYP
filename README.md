@@ -14,6 +14,8 @@ The **main contribution** are as follows:
 
 The RDDEA-ZPS model reduced the Euler distance error by an average of 80.89% and improved stability by 63.77%.
 
+The thesis was originally written in Chinese. English version is attached. Thanks to [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate/tree/main) for the PDF translation.  Please excuse any possible translation errors and format problem.
+
 ## Code Structure and Usage
 
 ### `main.py`
